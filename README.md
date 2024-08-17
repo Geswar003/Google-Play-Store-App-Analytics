@@ -29,7 +29,7 @@ This project aims to uncover trends, patterns, and insights within the Google Pl
 
 The dataset used in this project was scraped from the Google Play Store by Lavanya Gupta in 2018. It contains information about various apps, including their ratings, reviews, sizes, installs, and more.
 
-**Data Source**: [Kaggle - Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps)
+**Data Source**: [Kaggle - Google Play Store Apps](https://www.kaggle.com/datasets/yassershrief/goggle-play-data)
 
 # Technologies
 
