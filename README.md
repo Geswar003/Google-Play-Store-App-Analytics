@@ -1,4 +1,4 @@
-# Google-Play-Store-App-Analytics
+# Google Play Store App Analytics
 
 This project provides a comprehensive analysis of the Android app market by examining thousands of apps available on the Google Play Store. Using data scraped in 2018, the project explores various aspects of the app market, offering insights that can benefit developers, marketers, and users.
 
